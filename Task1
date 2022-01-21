@@ -1,0 +1,9 @@
+Vulnerabilities as below
+Authentication -Keep your Account and Data secure with two-factor Authentication, SSH and Commit Signature Verification.
+User Accouts   - Contorl Permission levels for a User Account repository ( Owner & Collaborator )
+Manage Organization Memberships - Requesting organization approval for OAuth apps.
+Manage Repositories - You can create a New Repository on your personal account or any Organization where you have sufficient permissions.
+Configure PR merges - Allow contributors with Push access to your repository to manage their pull requests on GitHub.com
+Security Analysis - Enable Dependabot Security updates 
+Setup Code Scanning .
+Provide Access to Alerts to team members.
