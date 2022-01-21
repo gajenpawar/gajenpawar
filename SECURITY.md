@@ -14,8 +14,12 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Vulnerabilities as below
+Authentication -Keep your Account and Data secure with two-factor Authentication, SSH and Commit Signature Verification.
+User Accouts   - Contorl Permission levels for a User Account repository ( Owner & Collaborator )
+Manage Organization Memberships - Requesting organization approval for OAuth apps.
+Manage Repositories - You can create a New Repository on your personal account or any Organization where you have sufficient permissions.
+Configure PR merges - Allow contributors with Push access to your repository to manage their pull requests on GitHub.com
+Security Analysis - Enable Dependabot Security updates 
+Setup Code Scanning .
+Provide Access to Alerts to team members.
